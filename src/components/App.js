@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div>
         {/* Do not remove the main div */}
-    <PageLayout header='' children='' footer='' />
+    <PageLayout header='Welcome to my website' children='This is the content of my website' footer='2023 my website. All Rights Reserved.' />
     </div>
   )
 }
